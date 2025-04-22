@@ -2,7 +2,7 @@
 
 A modern note-taking application with AI summarization capabilities, built with Next.js and Supabase.
 
-![MemoMind App](https://example.com/app-screenshot.png) <!-- Replace with your app screenshot -->
+![MemoMind App](https://iili.io/3GMcRB2.png) <!-- Replace with your app screenshot -->
 
 ## Features
 
@@ -67,7 +67,7 @@ The application follows a clear structure with route groups for different featur
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/memomind.git
+   git clone https://github.com/ReyKan-KP/MemoMind
    cd memomind
    ```
 
